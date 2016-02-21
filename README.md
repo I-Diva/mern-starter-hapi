@@ -1,4 +1,4 @@
-![](http://res.cloudinary.com/hashnode/image/upload/w_200/v1455647564/static_imgs/mern/imgs/favicon-mern.png)
+![](http://res.cloudinary.com/hashnode/image/upload/w_200/v1455647564/static_imgs/mern/imgs/favicon-mern.png) + <img src="https://raw.github.com/hapijs/hapi/master/images/hapi.png" />
 
 # Hapi.js Fork of MERN
 ![title](https://travis-ci.org/Hashnode/mern-starter.svg?branch=master)
